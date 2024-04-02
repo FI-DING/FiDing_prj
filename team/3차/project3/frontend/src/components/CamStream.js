@@ -10,7 +10,7 @@ const WebcamStream = () => {
     try {
       setLoading(true);
 
-      // 웹캠 스트림을 가져옵니다.
+      // 캠 스트림을 가져옵니다.
       const response = await fetch('http://localhost:5000/api/video_feed3');
       console.log("리스폰 확인", response);
 

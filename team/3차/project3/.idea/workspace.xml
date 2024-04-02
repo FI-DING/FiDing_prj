@@ -5,135 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ffdde31-5d4d-4eb1-87f2-c0a021d4c8e2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/camera.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/.github/ISSUE_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/.github/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/.github/workflows/main.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/AUTHORS.rst" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/AUTHORS.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/CONTRIBUTING.rst" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/CONTRIBUTING.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/Dockerfile.gpu" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/Dockerfile.gpu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/HISTORY.rst" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/HISTORY.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/MANIFEST.in" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/MANIFEST.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/README_Japanese.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/README_Japanese.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/README_Korean.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/README_Korean.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/README_Simplified_Chinese.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/README_Simplified_Chinese.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docker/Dockerfile-python-example" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docker/Dockerfile-python-example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docker/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docker/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docker/cpu-jupyter-kubeflow/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docker/cpu-jupyter-kubeflow/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docker/cpu/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docker/cpu/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docker/gpu-jupyter-kubeflow/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docker/gpu-jupyter-kubeflow/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docker/gpu/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docker/gpu/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/authors.rst" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/authors.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/conf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/contributing.rst" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/contributing.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/face_recognition.rst" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/face_recognition.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/history.rst" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/history.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/installation.rst" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/installation.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/make.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/make.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/modules.rst" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/modules.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/readme.rst" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/readme.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/usage.rst" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/docs/usage.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/benchmark.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/benchmark.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/blink_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/blink_detection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/blur_faces_on_webcam.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/blur_faces_on_webcam.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/digital_makeup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/digital_makeup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/face_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/face_distance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/face_recognition_knn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/face_recognition_knn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/face_recognition_svm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/face_recognition_svm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/facerec_from_video_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/facerec_from_video_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/facerec_from_webcam.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/facerec_from_webcam.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/facerec_from_webcam_faster.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/facerec_from_webcam_faster.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/facerec_from_webcam_multiprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/facerec_from_webcam_multiprocessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/facerec_ipcamera_knn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/facerec_ipcamera_knn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/facerec_on_raspberry_pi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/facerec_on_raspberry_pi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/facerec_on_raspberry_pi_Simplified_Chinese.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/facerec_on_raspberry_pi_Simplified_Chinese.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/find_faces_in_batches.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/find_faces_in_batches.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/find_faces_in_picture.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/find_faces_in_picture.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/find_faces_in_picture_cnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/find_faces_in_picture_cnn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/find_facial_features_in_picture.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/find_facial_features_in_picture.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/identify_and_draw_boxes_on_faces.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/identify_and_draw_boxes_on_faces.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/inference_face.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/inference_face.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/ipynb_examples/track_faces_on_video_realtime.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/ipynb_examples/track_faces_on_video_realtime.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/recognize_faces_in_pictures.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/recognize_faces_in_pictures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/t1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/t1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/web_service_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/web_service_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/web_service_example_Simplified_Chinese.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/examples/web_service_example_Simplified_Chinese.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/face_recognition/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/face_recognition/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/face_recognition/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/face_recognition/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/face_recognition/face_detection_cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/face_recognition/face_detection_cli.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/face_recognition/face_recognition_cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/face_recognition/face_recognition_cli.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/requirements_dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/requirements_dev.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/setup.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/setup.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/tests/test_face_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/tests/test_face_recognition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/tox.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/face_recognition-master/tox.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/flask_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/flask_server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/templates/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/backend/templates/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/backend/templates/knn_examples/train/a/KakaoTalk_20231129_235735259.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/frontend (2).zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/frontend.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/ApiFetch.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/ApiFetch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/ApiFetch_script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/LoginMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/LoginMain.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/MyChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/MyChart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/SeoulMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/SeoulMap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/WebcamStream.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/WebcamStream.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/chatbot.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/chatbot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/hangjungdong.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src/components/hangjungdong.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/App2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/Register.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/Chatbot.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/Footer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/Login copy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/Login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/Login1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/LoginMain.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/LoginMain2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/Logout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/Main copy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/Main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/Menu1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/Mypage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/NavItem.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/Navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/Navigation1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/Navigration.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/Signup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/chatbot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/fonts/NanumSquareRoundOTFB.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/fonts/NanumSquareRoundOTFEB.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/fonts/NanumSquareRoundOTFL.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/fonts/NanumSquareRoundOTFR.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/hangjungdong.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/navigation.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/pages.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/signup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/components/util.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/src3/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eunyoung/project3/frontend/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1차/1차_clean/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1차/1차_clean/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/flask_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/flask_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/CamStream.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/CamStream.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,22 +18,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2bAOkDRmZzrO9RKWAFyu6cYCUNk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/jey92/project/team/3차/project3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jey92/project/team/3차/project3&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -179,12 +179,14 @@ def video_feed2():
                         print("인증실패",name)
 
                     cv2.rectangle(frame, (left, top), (right, bottom), (0, 0, 255), 2)
-                    cv2.putText(frame, name, (left, bottom + 20), cv2.FONT_HERSHEY_DUPLEX, 0.5, (255, 255, 255), 1)
+                    cv2.putText(frame, name, (left, bottom + 20),
+                                cv2.FONT_HERSHEY_DUPLEX, 0.5, (255, 255, 255), 1)
 
                 _, jpeg = cv2.imencode('.jpg', frame)
                 # response_data = {'name': name}
 
-                return Response(b'--frame\r\n' b'Content-Type: image/jpeg\r\n\r\n' + jpeg.tobytes() + b'\r\n\r\n' + b'data: ' + name.encode('utf-8') + b'\r\n\r\n',
+                return Response(b'--frame\r\n' b'Content-Type: image/jpeg\r\n\r\n' + jpeg.tobytes() +
+                                b'\r\n\r\n' + b'data: ' + name.encode('utf-8') + b'\r\n\r\n',
                                 mimetype='multipart/x-mixed-replace; boundary=frame')
 
 @app.route('/api/video_feed3') #외장캠으로 얼굴인식하는 부분
@@ -293,23 +295,18 @@ def video_feed3():
 @cross_origin()
 def get_data3(): #얼굴인식 학습코드
     data = request.get_json()  # 유저 아이디를 받아오면 그 이름으로 train 폴더를 만듭니다.
-    # data = {'url': '...', 'id': '...'} 가 있어야 합니다.
 
     # 프로젝트 경로에 맞게 사용자의 얼굴 사진을 저장할 폴더 경로를 설정합니다.
     project_path = 'C:/Users/jey92/project/team/3차/project3/backend/templates/knn_examples'
     user_photos_path = os.path.join(project_path, 'train')
-    # 유저의 사진 URL이 있다면 받아와서 다운로드 후 user_photos_path에 저장합니다.
-    # 여기에서 구현 필요
 
     # user_photos_path 폴더 안에 사용자의 아이디 이름의 폴더에 사진이 저장되어야 합니다.
     user_id_folder_path = os.path.join(user_photos_path, data['id'])
     os.makedirs(user_id_folder_path, exist_ok=True)
 
     # face_recognition_knn.train 함수를 사용하여 사용자의 얼굴 사진을 학습합니다.
-    classifier = face_recognition_knn.train(user_photos_path, model_save_path="trained_knn_model.clf", n_neighbors=2)
-
-    # classifier는 학습된 모델이지만 현재 코드에서는 사용되지 않습니다.
-    # 만약 추가적인 작업이 필요하다면 여기에서 사용하시면 됩니다.
+    classifier = face_recognition_knn.train(user_photos_path,
+                                            model_save_path="trained_knn_model.clf", n_neighbors=2)
 
     return jsonify({'message': 'User data received and trained successfully!'})
 
